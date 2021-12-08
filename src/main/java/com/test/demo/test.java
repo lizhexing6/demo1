@@ -13,7 +13,8 @@ public class test {
     @GetMapping("/a")
     public String test(){
 
-        Book book = new Book();
+        System.out.println("hello git");
+//        Book book = new Book();
 
         return "test";
     }
