@@ -14,6 +14,7 @@ public class test {
     public String test(){
 
         System.out.println("hello git");
+        System.out.println("hello git2");
 //        Book book = new Book();
 
         return "test";
