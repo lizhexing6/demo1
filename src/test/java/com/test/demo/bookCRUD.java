@@ -18,7 +18,7 @@ public class bookCRUD {
     @Test
     void test1(){
         System.out.println(bookDao.selectList(null));
-//        System.out.println("hello git...");
+        System.out.println("hello git...");
     }
 
     @Test
